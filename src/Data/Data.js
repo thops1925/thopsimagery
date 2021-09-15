@@ -1,23 +1,24 @@
 const Data = [
   {
-    title: "Louie",
-    imgSrc: ["./images/1.jpg"],
-  },
-  {
-    title: "Louie",
-    imgSrc: ["./images/2.jpg"],
-  },
-  {
-    title: "Louie",
-    imgSrc: ["./images/3.jpg"],
-  },
-  {
-    title: "Louie",
-    imgSrc: ["./images/4.jpg"],
-  },
-  {
-    title: "Louie",
-    imgSrc: ["./images/5.jpg"],
+    title: 'Thopshot',
+    photo: [
+      './images/beach/1.jpg',
+      './images/beach/2.jpg',
+      './images/beach/3.jpg',
+      './images/beach/4.jpg',
+      './images/beach/1.jpg',
+      './images/beach/2.jpg',
+      './images/beach/3.jpg',
+      './images/beach/4.jpg',
+      './images/beach/1.jpg',
+      './images/beach/2.jpg',
+      './images/beach/3.jpg',
+      './images/beach/4.jpg',
+      './images/beach/1.jpg',
+      './images/beach/2.jpg',
+      './images/beach/3.jpg',
+      './images/beach/4.jpg',
+    ],
   },
 ];
 
